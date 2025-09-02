@@ -1,0 +1,78 @@
+Adjusted Roadmap (Sept → Dec)
+
+🔹 September – Strengthen Analyst Skills
+Goal: Validate your foundation before ML gets heavy.
+- SQL → Solve 40–50 problems on LeetCode (joins, subqueries, window functions).
+- Excel → Do 2 business-style case studies (sales dashboard, HR attrition).
+- Power BI → Build 1 polished dashboard using a Kaggle dataset (publish it).
+- Python (pre-ML) → Practice with pandas, numpy, and matplotlib on small datasets.
+
+🔹 October – Parallel Practice While Learning ML
+Goal: Combine Python + Analytics + early ML.
+- As your course teaches regression/classification → practice with scikit-learn.
+- Do mini-projects:
+  - Predict house prices (regression).
+  - Predict customer churn (classification).
+- Share at least 1 project per week on GitHub.
+- Keep improving SQL + Power BI dashboards on different datasets.
+
+🔹 Mid-November – Finish Course & Start Integration
+Goal: Transition from learner → builder.
+- Review and re-code all ML algorithms you learned.
+- Build 1 end-to-end project:
+  - Example: “Retail Sales Prediction Dashboard”
+    - SQL → data cleaning
+    - Python → ML model
+    - Power BI → visualization
+- Start exploring cloud basics (AWS/Azure free tier for storage + querying).
+
+🔹 December – Portfolio & Capstone
+Goal: Package your skills for recruiters.
+- Do 1 big capstone project (choose a dataset you’re passionate about):
+  - Example: Sentiment analysis of product reviews with ML → dashboard visualization.
+- Polish your GitHub → add READMEs, clear write-ups.
+- Write a “What I learned in 2025” post on LinkedIn/Medium to showcase growth.
+- Optional: add beginner deep learning project (image or text classification).
+
+🎯 By Dec 31
+- You’ll have 3–4 complete projects (covering SQL, Python, ML, Power BI).
+- A GitHub portfolio + LinkedIn presence.
+- Confidence in both analyst + beginner ML skills.
+- A clear path to target junior data scientist / data analyst with ML edge roles in 2025.
+
+
+Dataset & Project Roadmap (Sept–Dec)
+
+🔹 September – Strengthen Analyst Skills
+Goal: Practice SQL, Excel, Power BI with structured datasets.
+- Dataset 1: Retail Sales Data → Kaggle – Superstore Sales (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+  📌 Project: Build an Excel dashboard + Power BI interactive dashboard for sales performance.
+- Dataset 2: HR Analytics → Kaggle – HR Analytics (https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study)
+  📌 Project: Analyze employee attrition with SQL queries + dashboard.
+
+🔹 October – Early ML + Integration
+Goal: Start ML with Python while using your analyst stack.
+- Dataset 3: Housing Prices → Kaggle – House Prices (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+  📌 Project: Predict house prices with regression + visualize predictions in Power BI.
+- Dataset 4: Customer Churn → Kaggle – Telco Customer Churn (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+  📌 Project: Classification model in Python (logistic regression, random forest) + SQL queries for insights.
+
+🔹 Mid-November – Post-Course Integration
+Goal: Apply what you learned in your ML course.
+- Dataset 5: Credit Card Fraud Detection → Kaggle – Credit Card Fraud (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+  📌 Project: Build ML classification pipeline (imbalanced data handling).
+- Dataset 6: Movie Review Sentiment → Kaggle – IMDB Reviews (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+  📌 Project: Sentiment analysis with ML models → visualize results in a dashboard.
+
+🔹 December – Capstone & Showcase
+Goal: Finish with end-to-end, portfolio-worthy projects.
+- Dataset 7: Global COVID-19 Data → Johns Hopkins COVID-19 Dataset (https://github.com/CSSEGISandData/COVID-19)
+  📌 Project: SQL + ML forecasting model + Power BI dashboard (trend analysis).
+- Dataset 8: E-Commerce Reviews → Kaggle – Amazon Reviews (https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
+  📌 Project: NLP project (sentiment classification) + data storytelling.
+
+🌟 Push Yourself (Challenge Datasets)
+If you want datasets that are large, messy, and closer to real-world challenges:
+- NYC Taxi Trips → NYC Taxi Dataset (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- US Census Data → Kaggle – US Census Data (https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data)
+- HuggingFace Datasets Hub → HuggingFace Datasets (https://huggingface.co/datasets)
