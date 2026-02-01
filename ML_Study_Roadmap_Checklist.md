@@ -1,7 +1,7 @@
 # ML Learning Roadmap (Sept - Dec)
 
 ## ✅ September – Strengthen Analyst Skills
-- [ ] SQL – Solve 40–50 problems on LeetCode
+- [✅] SQL – Solve 40–50 problems on LeetCode
 - [ ] Excel – Sales Dashboard Case Study
 - [ ] Excel – HR Attrition Case Study
 - [ ] Power BI – Build 1 polished dashboard (Kaggle dataset)
